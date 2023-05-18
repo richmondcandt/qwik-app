@@ -1,0 +1,1 @@
+import{k as r,A as o,a,_ as e}from"./q-22fb2ad6.js";import{w as s}from"./q-7970b2ea.js";const m=s(o("s_GQamrjryd1Y")),i=r(a(()=>e(()=>import("./q-c942158a.js"),["build/q-c942158a.js","build/q-22fb2ad6.js"]),"s_VkLNXphUh5s"));export{i as default,m as useServerTimeLoader};
