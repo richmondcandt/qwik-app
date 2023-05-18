@@ -384,7 +384,7 @@
   "mapping": {
     "s_02wMImzEAbk": "q-5c69a6ab.js",
     "s_LQPhZ0qOjrk": "q-f3e397b4.js",
-    "s_3sccYCDd1Z0": "q-2fd599a1.js",
+    "s_3sccYCDd1Z0": "q-ac059947.js",
     "s_5Go3iiHXUB4": "q-ec86971b.js",
     "s_7gzriUtQs98": "q-6f5438d1.js",
     "s_8gdLBszqbaM": "q-5ed7a5f3.js",
@@ -444,19 +444,6 @@
         "s_VkLNXphUh5s"
       ]
     },
-    "q-109fee50.js": {
-      "size": 202,
-      "imports": [
-        "q-22fb2ad6.js"
-      ],
-      "dynamicImports": [
-        "q-2fd599a1.js"
-      ],
-      "origins": [
-        "src/global.css",
-        "src/root.tsx"
-      ]
-    },
     "q-11bb2787.js": {
       "size": 1667,
       "imports": [
@@ -482,24 +469,6 @@
       "size": 47588,
       "origins": [
         "node_modules/@builder.io/qwik/core.min.mjs"
-      ]
-    },
-    "q-2fd599a1.js": {
-      "size": 538,
-      "imports": [
-        "q-22fb2ad6.js",
-        "q-6b7ab7bd.js"
-      ],
-      "dynamicImports": [
-        "q-dee0c3b7.js"
-      ],
-      "origins": [
-        "src/components/router-head/router-head.tsx",
-        "src/entry_root.js",
-        "src/s_3sccycdd1z0.js"
-      ],
-      "symbols": [
-        "s_3sccYCDd1Z0"
       ]
     },
     "q-3fa2ee7c.js": {
@@ -553,6 +522,19 @@
       ],
       "symbols": [
         "s_eBQ0vFsFKsk"
+      ]
+    },
+    "q-532bad2e.js": {
+      "size": 202,
+      "imports": [
+        "q-22fb2ad6.js"
+      ],
+      "dynamicImports": [
+        "q-ac059947.js"
+      ],
+      "origins": [
+        "src/global.css",
+        "src/root.tsx"
       ]
     },
     "q-5c69a6ab.js": {
@@ -721,6 +703,24 @@
         "s_kJCtKbc9zbk",
         "s_NYEDprtA0Lw",
         "s_UxlJFslpf0s"
+      ]
+    },
+    "q-ac059947.js": {
+      "size": 599,
+      "imports": [
+        "q-22fb2ad6.js",
+        "q-6b7ab7bd.js"
+      ],
+      "dynamicImports": [
+        "q-dee0c3b7.js"
+      ],
+      "origins": [
+        "src/components/router-head/router-head.tsx",
+        "src/entry_root.js",
+        "src/s_3sccycdd1z0.js"
+      ],
+      "symbols": [
+        "s_3sccYCDd1Z0"
       ]
     },
     "q-af9fd6cb.js": {
