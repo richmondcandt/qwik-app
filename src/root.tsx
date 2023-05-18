@@ -17,7 +17,7 @@ export default component$(() => {
       <head>
         <meta charSet="utf-8" />
         <link rel="manifest" href="/qwik-app/manifest.json" />
-        <base href='/qwik/app/' />
+        <base href='/qwik-app/' />
         <RouterHead />
       </head>
       <body lang="en">
