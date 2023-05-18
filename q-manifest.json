@@ -384,7 +384,7 @@
   "mapping": {
     "s_02wMImzEAbk": "q-8ea8061b.js",
     "s_LQPhZ0qOjrk": "q-d664bb32.js",
-    "s_3sccYCDd1Z0": "q-98de016b.js",
+    "s_3sccYCDd1Z0": "q-388b444a.js",
     "s_5Go3iiHXUB4": "q-ec86971b.js",
     "s_7gzriUtQs98": "q-6f5438d1.js",
     "s_8gdLBszqbaM": "q-e89b9eb9.js",
@@ -401,7 +401,7 @@
     "s_mBt9fIl89mc": "q-df85711a.js",
     "s_u0bwM0i5dA8": "q-eca439f0.js",
     "s_xYL1qOwPyDI": "q-e79ded0c.js",
-    "s_zrbrqoaqXSY": "q-3f650059.js",
+    "s_zrbrqoaqXSY": "q-7a9af77f.js",
     "s_RPDJAz33WLA": "q-8ea8061b.js",
     "s_HU55RV7VfPc": "q-d664bb32.js",
     "s_A5bZC7WO00A": "q-7400a341.js",
@@ -479,18 +479,22 @@
         "s_wOIPfiQ04l4"
       ]
     },
-    "q-3f650059.js": {
-      "size": 671,
+    "q-388b444a.js": {
+      "size": 599,
       "imports": [
         "q-22fb2ad6.js",
         "q-afbe2d3a.js"
       ],
+      "dynamicImports": [
+        "q-7a9af77f.js"
+      ],
       "origins": [
-        "src/entry_RouterHead.js",
-        "src/s_zrbrqoaqxsy.js"
+        "src/components/router-head/router-head.tsx",
+        "src/entry_root.js",
+        "src/s_3sccycdd1z0.js"
       ],
       "symbols": [
-        "s_zrbrqoaqXSY"
+        "s_3sccYCDd1Z0"
       ]
     },
     "q-3fa2ee7c.js": {
@@ -628,19 +632,6 @@
         "src/routes/demo/todolist/index.tsx"
       ]
     },
-    "q-717cffb5.js": {
-      "size": 202,
-      "imports": [
-        "q-22fb2ad6.js"
-      ],
-      "dynamicImports": [
-        "q-98de016b.js"
-      ],
-      "origins": [
-        "src/global.css",
-        "src/root.tsx"
-      ]
-    },
     "q-72b4a8ee.js": {
       "size": 261,
       "imports": [
@@ -666,6 +657,20 @@
       ],
       "symbols": [
         "s_A5bZC7WO00A"
+      ]
+    },
+    "q-7a9af77f.js": {
+      "size": 680,
+      "imports": [
+        "q-22fb2ad6.js",
+        "q-afbe2d3a.js"
+      ],
+      "origins": [
+        "src/entry_RouterHead.js",
+        "src/s_zrbrqoaqxsy.js"
+      ],
+      "symbols": [
+        "s_zrbrqoaqXSY"
       ]
     },
     "q-7b7068cd.js": {
@@ -729,22 +734,17 @@
         "s_UxlJFslpf0s"
       ]
     },
-    "q-98de016b.js": {
-      "size": 599,
+    "q-96eb8a3a.js": {
+      "size": 202,
       "imports": [
-        "q-22fb2ad6.js",
-        "q-afbe2d3a.js"
+        "q-22fb2ad6.js"
       ],
       "dynamicImports": [
-        "q-3f650059.js"
+        "q-388b444a.js"
       ],
       "origins": [
-        "src/components/router-head/router-head.tsx",
-        "src/entry_root.js",
-        "src/s_3sccycdd1z0.js"
-      ],
-      "symbols": [
-        "s_3sccYCDd1Z0"
+        "src/global.css",
+        "src/root.tsx"
       ]
     },
     "q-afbe2d3a.js": {
